@@ -6,6 +6,7 @@ To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. S
 
   - Install the DFUSE tools
   - Put your device in bootloader mode
+  - Repeat step 1 above
   
 
 # Step One
