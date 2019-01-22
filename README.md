@@ -1,4 +1,4 @@
-# nanoFrameworkFirmware Update
+# nanoFramework Firmware Update
 How To Update STMicroelectronics Microcontrollers Firmware
 
 To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. Search for STSW-STM32080
