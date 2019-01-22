@@ -25,7 +25,7 @@ To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. S
   - Toggle the devices power
   - Thats all we are done!
   
-  # How To Create a STMicroelectronics Microcontrollers Firmware .dfu file
+  # How To Create a .dfu file
 
 To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. Search for STSW-STM32080
 
