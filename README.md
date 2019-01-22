@@ -23,7 +23,7 @@ To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. S
   - Locate the .dfu file located in the device firmware update .zip file.
   - Click the Choose then Update
   - Toggle the devices power
-  - Thats all we are done!
+  - That's all we are done!
   
   # How To Create a .dfu file
 
@@ -72,7 +72,7 @@ To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. S
   - Locate the .dfu file generated above.
   - Click the "Choose" button then  the "Update" button
   - Toggle the devices power
-  - Thats all we are done!
+  - That's all we are done!
  
  
 
