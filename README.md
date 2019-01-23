@@ -21,7 +21,7 @@ To manually flash firmware using ST DFUSE tools, get a copy of ST DFUSE tools. S
 
   - Start the DFUSE Demo Application 
   - Locate the .dfu file located in the device firmware update .zip file.
-  - Click the Choose then Update
+  - Click the "Choose" button then the "Update" button
   - Toggle the devices power
   - That's all we are done!
   
